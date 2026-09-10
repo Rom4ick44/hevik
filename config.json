@@ -1,0 +1,272 @@
+{
+  "guildId": "1416854118588354591",
+  "clientId": "1547281279974772886",
+  "theme": {
+    "accent": 16777215,
+    "muted": 9803157,
+    "danger": 14692657,
+    "success": 5763719
+  },
+  "channels": {
+    "ticket": "1416875036417065050",
+    "links": "1547309089032249346",
+    "interaction": "1547309270775627786",
+    "afk": "1482595701203538164",
+    "capt-pluse": "1416895422320083126",
+    "mcl-pluse": "1416895478146138164",
+    "cheatCheck": "1547309819571208252",
+    "cheatCheckRequests": "1547309726013063209"
+  },
+  "logs": {
+    "bot": "1547309891088154655",
+    "leave": "1547309891088154655",
+    "memberLeave": "1547309891088154655",
+    "ticket": "1547310040803835985",
+    "ticketDelete": "1547310040803835985",
+    "profile": "1547310610298052678",
+    "mcl": "1547310126304731239",
+    "replay": "1547310170164428830",
+    "cheatCheckLifecycle": "1547310208240459776"
+  },
+  "categories": {
+    "tickets": "1547310858311438416",
+    "profiles": "1547310938586353664"
+  },
+  "roles": {
+    "inactive": "1539755824837173339",
+    "main": "1492245929921876078",
+    "test": "1482567495935070238",
+    "heavyweight": "1416876230107594896",
+    "penalty": "",
+    "recruits": [
+      "1416875397479399475"
+    ],
+    "highrank": [
+      "1416871286495383574",
+      "1416871504389603338"
+    ],
+    "profileAccess": [
+      "1483096243042385952"
+    ],
+    "ticketAccess": [
+      "1416875397479399475"
+    ],
+    "ticketDeleteAccess": [
+      "1416875397479399475"
+    ],
+    "cheatVerified": "1547314430470266931",
+    "cheathunter": [
+      "1547314490524049528"
+    ],
+    "protectedFromLeaveRemoval": [],
+    "setupCommand": "1416854296498147412",
+    "testMain": ""
+  },
+  "socials": {
+    "discord": [
+      "https://discord.gg/heavyweight",
+      "https://discord.gg/painn"
+    ],
+    "telegram": [
+      "https://t.me/heavyweight_famq",
+      "https://t.me/deanosense",
+      "https://t.me/errorz0neee"
+    ],
+    "youtube": [
+      "https://www.youtube.com/@Axistens",
+      "https://www.youtube.com/@anti-antiseptic",
+      "https://www.youtube.com/@Dezmond03",
+      "https://www.youtube.com/@deanosense",
+      "https://www.youtube.com/@yenfckwrld",
+      "https://www.youtube.com/@dronnum1",
+      "https://www.youtube.com/@Kwon4ik",
+      "https://www.youtube.com/@Def1x13",
+      "https://www.youtube.com/@Mozol",
+      "https://www.youtube.com/@cashalottt",
+      "https://www.youtube.com/@nekucjlotaa",
+      "https://www.youtube.com/@bulbik666",
+      "https://www.youtube.com/@Slejer141",
+      "https://www.youtube.com/@baha6210",
+      "https://www.youtube.com/@xaxaxasorrybby",
+      "https://www.youtube.com/@4Z3L3N20"
+    ],
+    "twitch": [
+      "https://www.twitch.tv/casuallmentality",
+      "https://www.twitch.tv/axistens",
+      "https://www.twitch.tv/jorik_nakrutka",
+      "https://www.twitch.tv/watchyacryy"
+    ],
+    "tiktok": [
+      "https://www.tiktok.com/@rem6mber",
+      "https://www.tiktok.com/@sazexqqq",
+      "https://www.tiktok.com/@curemeeee666",
+      "https://www.tiktok.com/@kaeldadaja"
+    ]
+  },
+  "ticket": {
+    "serverName": "Orlando",
+    "serverEmoji": "🦁"
+  },
+  "capt": {
+    "defaultSlots": 35,
+    "reserveEmoji": ""
+  },
+  "mcl": {
+    "defaultSlots": 25
+  },
+  "replays": {
+    "enabled": true,
+    "dbPath": "video.db",
+    "panelChannelId": "1481666886205706361",
+    "requestChannelId": "1547646714305839174",
+    "logChannelId": "1547310170164428830",
+    "reviewerRoleIds": [
+      "1416871286495383574",
+      "1416871504389603338",
+      "1483096243042385952"
+    ],
+    "bannerUrl": "https://cdn.discordapp.com/attachments/1507321281953927209/1547317969208746134/logo-banner_2_1.gif?ex=6aa2fba7&is=6aa1aa27&hm=fe74fc9727e5cddb1785feeacb7f81626a75e4f4368e89433e59af0a45ee10e8&"
+  },
+  "tempVoice": {
+    "enabled": false,
+    "categoryName": "custom",
+    "controlChannelName": "manage-voice",
+    "createChannelName": "create-voice",
+    "defaultUserLimit": 5,
+    "allowedRoleIds": [
+      "1353826792443609110",
+      "1135478212584022026",
+      "1490428791229518069",
+      "1182696506587877376",
+      "1410211238499188848"
+    ]
+  },
+  "emojis": {
+    "done": "✅",
+    "afk": "<:afk:1547641675445182625>",
+    "weekend": "🎉",
+    "profile": "👤",
+    "magic1": "🪄",
+    "orl": "🏠",
+    "discord": "<:ds:1547633866754498731>",
+    "tg": "<:tg:1547633921360011505>",
+    "twitch": "<:tw:1547633934345699440>",
+    "youtube": "<:yt:1547633940423123015>",
+    "tiktok": "<:tt:1547633927852662794>",
+    "voice": "🎙️",
+    "no": "🚫",
+    "main": "⭐",
+    "tiger": "🐯",
+    "scout": "🔍",
+    "redgroup": "🔴",
+    "bluegroup": "🔵",
+    "groupcoller": "📁",
+    "coller": "🎗️",
+    "hwt_logo": "<:link2:1547633905853538444>",
+    "hwt_apply": "<:link2:1547633905853538444>",
+    "hwt_link": "<:links:1547633913327779941>",
+    "hwt_register": "<:reg:1547635493213048903>",
+    "hwt_telegram": "<:tg:1547633921360011505>",
+    "hwt_replay": "<:ot:1547645570212954112>",
+    "hwt_clean": "🧹",
+    "hwt_check": "🔎",
+    "hwt_warn": "⚠️",
+    "hwt_voice": "🎙️",
+    "temp_voice_add_slot": "➕",
+    "temp_voice_remove_slot": "➖",
+    "temp_voice_lock": "🔒",
+    "temp_voice_rename": "✏️",
+    "temp_voice_set_slots": "🔢",
+    "temp_voice_bitrate": "🎛️",
+    "temp_voice_kick": "👢",
+    "temp_voice_speak": "🔊",
+    "temp_voice_access": "👥",
+    "temp_voice_transfer": "🔄",
+    "hwt_drive": "📁",
+    "hwt_youtube": "<:yt:1547633940423123015>",
+    "hwt_twitch": "<:tw:1547633934345699440>",
+    "hwt_tiktok": "<:tt:1547633927852662794>",
+    "hwt_media": "📱",
+    "hwt_security": "🔒",
+    "hwt_afk": "<:afk:1547641675445182625>",
+    "hwt_profile": "<:profile:1547642376036687943>",
+    "hwt_warn_remove": "✅",
+    "hwt_ticket": "🎫",
+    "hwt_accept": "<a:war:1547638290511826975>",
+    "hwt_reject": "👎",
+    "hwt_interview": "💼",
+    "hwt_delete": "🗑️",
+    "hwt_refresh": "<:ref:1547643922740678688>",
+    "hwt_calendar": "📅",
+    "hwt_clock": "⏰",
+    "hwt_roster": "<:links:1547633913327779941>",
+    "hwt_main": "⭐",
+    "hwt_reserve": "📌",
+    "hwt_tag": "<:tags:1547645585354399834>",
+    "hwt_no_voice": "<:mute:1547645576747941968>",
+    "hwt_progress": "📊",
+    "hwt_rank": "🏆",
+    "hwt_capt": "<:capt:1547643913026801756>",
+    "hwt_mcl": "<:mcl:1547638281607446560>",
+    "hwt_upload": "📤",
+    "hwt_pending": "⏳",
+    "hwt_success": "✅",
+    "hwt_error": "❌",
+    "hwt_dm": "📩",
+    "hwt_unlock": "🔓",
+    "hwt_lock": "🔒",
+    "hwt_staff": "<:link2:1547633905853538444>",
+    "hwt_orlando": "🏠",
+    "hwt_gg": "<:gg:1547638265056723056>",
+    "hwt_info": "<:info:1547638272564400189>",
+    "hwt_vzz": "💎"
+  },
+  "images": {
+    "globalPanel": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "ticketPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "linksPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "interactionPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "afkPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "warnPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "captPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "mclPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "cheatCheckPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "panelThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "ticketThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "linksThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "interactionThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "afkThumbnail": "",
+    "warnThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "captThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "mclThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "cheatCheckThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "replayThumbnail": "https://cdn.discordapp.com/attachments/1482277656614404106/1482278166658678814/dddd.png?ex=6aa3ac9e&is=6aa25b1e&hm=f36f1abeafaab1b1d20f8bc52356af6147c099155df9565fc707fe1886fab44c&",
+    "leaveCard": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "profileCard": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "reportCard": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&",
+    "replayPanel": "https://cdn.discordapp.com/attachments/1507321281953927209/1547595695735705620/ticket-banner.gif?ex=6aa3fe4e&is=6aa2acce&hm=62f6e06b18f8f45f7f49b0a862ebfd853037e2ee4c2fd04e1e54ff0c8c2ca37f&"
+  },
+  "ownerId": "",
+  "ownerRoleId": "",
+  "auraRanks": [
+    {
+      "name": "Iron",
+      "emoji": "",
+      "min": 0
+    }
+  ],
+  "profileCategory": {
+    "roleDefs": [
+      {
+        "label": "main",
+        "roleConfigKey": "main",
+        "roleIds": []
+      }
+    ],
+    "fallbackDef": {
+      "label": "main",
+      "roleConfigKey": "main",
+      "roleIds": []
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "voice": {
+    "315530619675213824": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.772Z"
+    },
+    "333296129628438529": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "700293815730438175": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "753108433607327844": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "869838756092465173": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "977433799417815120": {
+      "totalMs": 412640,
+      "daily": {
+        "2026-09-09": 412640
+      },
+      "sessionStartedAt": null
+    },
+    "1109360624556851240": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "1150455501180645479": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "1198317928098054164": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "1261520118861529188": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:53:49.773Z"
+    },
+    "607561295658614784": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T18:59:23.185Z"
+    },
+    "1395751777030373469": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-09T19:01:10.864Z"
+    }
+  },
+  "rankOverrides": {},
+  "reminders": {}
+}

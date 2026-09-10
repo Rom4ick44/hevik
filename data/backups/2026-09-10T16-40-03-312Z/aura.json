@@ -1,0 +1,288 @@
+{
+  "voice": {
+    "315530619675213824": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "333296129628438529": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:24:43.329Z"
+    },
+    "607561295658614784": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T12:25:50.328Z"
+    },
+    "700293815730438175": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "753108433607327844": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "869838756092465173": {
+      "totalMs": 10816438,
+      "daily": {
+        "2026-09-10": 10816438
+      },
+      "sessionStartedAt": null
+    },
+    "1109360624556851240": {
+      "totalMs": 19914179,
+      "daily": {
+        "2026-09-10": 19914179
+      },
+      "sessionStartedAt": null
+    },
+    "1150455501180645479": {
+      "totalMs": 14482508,
+      "daily": {
+        "2026-09-10": 14482508
+      },
+      "sessionStartedAt": "2026-09-10T16:28:01.152Z"
+    },
+    "1198317928098054164": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "1261520118861529188": {
+      "totalMs": 715308,
+      "daily": {
+        "2026-09-10": 715308
+      },
+      "sessionStartedAt": "2026-09-10T12:49:43.578Z"
+    },
+    "1395751777030373469": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "1198385700735819776": {
+      "totalMs": 35120,
+      "daily": {
+        "2026-09-10": 35120
+      },
+      "sessionStartedAt": "2026-09-10T13:31:41.439Z"
+    },
+    "1467203184911974624": {
+      "totalMs": 1496679,
+      "daily": {
+        "2026-09-10": 1496679
+      },
+      "sessionStartedAt": null
+    },
+    "1489539167498141696": {
+      "totalMs": 776280,
+      "daily": {
+        "2026-09-10": 776280
+      },
+      "sessionStartedAt": "2026-09-10T11:01:18.826Z"
+    },
+    "694111187582976020": {
+      "totalMs": 3272654,
+      "daily": {
+        "2026-09-10": 3272654
+      },
+      "sessionStartedAt": "2026-09-10T16:38:01.469Z"
+    },
+    "674548446610325505": {
+      "totalMs": 2297020,
+      "daily": {
+        "2026-09-10": 2297020
+      },
+      "sessionStartedAt": null
+    },
+    "406485112751128576": {
+      "totalMs": 304208,
+      "daily": {
+        "2026-09-10": 304208
+      },
+      "sessionStartedAt": "2026-09-10T13:51:13.660Z"
+    },
+    "901522890900512849": {
+      "totalMs": 14076432,
+      "daily": {
+        "2026-09-10": 14076432
+      },
+      "sessionStartedAt": "2026-09-10T16:34:27.953Z"
+    },
+    "661987559915651082": {
+      "totalMs": 2990,
+      "daily": {
+        "2026-09-10": 2990
+      },
+      "sessionStartedAt": null
+    },
+    "852875991180115978": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "720701341659430974": {
+      "totalMs": 2158700,
+      "daily": {
+        "2026-09-10": 2158700
+      },
+      "sessionStartedAt": null
+    },
+    "601458047159763015": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T13:26:48.406Z"
+    },
+    "1289311324936998943": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T13:28:07.648Z"
+    },
+    "413197068128092174": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "1096518484323750058": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T13:29:21.505Z"
+    },
+    "844212911160164402": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "906936452078796851": {
+      "totalMs": 10866312,
+      "daily": {
+        "2026-09-10": 10866312
+      },
+      "sessionStartedAt": null
+    },
+    "1055896677921333309": {
+      "totalMs": 10463381,
+      "daily": {
+        "2026-09-10": 10463381
+      },
+      "sessionStartedAt": "2026-09-10T16:33:25.383Z"
+    },
+    "697077899307647006": {
+      "totalMs": 279206,
+      "daily": {
+        "2026-09-10": 279206
+      },
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "781286522036682803": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "1254819577846694024": {
+      "totalMs": 214198,
+      "daily": {
+        "2026-09-10": 214198
+      },
+      "sessionStartedAt": "2026-09-10T13:58:06.639Z"
+    },
+    "1329968799151165447": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": null
+    },
+    "382487860084736000": {
+      "totalMs": 1722761,
+      "daily": {
+        "2026-09-10": 1722761
+      },
+      "sessionStartedAt": "2026-09-10T16:30:23.148Z"
+    },
+    "449813911437312000": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "595590340711415808": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "612782887904870400": {
+      "totalMs": 2416677,
+      "daily": {
+        "2026-09-10": 2416677
+      },
+      "sessionStartedAt": "2026-09-10T16:34:44.169Z"
+    },
+    "721657831102873630": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "903229043250430004": {
+      "totalMs": 1693654,
+      "daily": {
+        "2026-09-10": 1693654
+      },
+      "sessionStartedAt": "2026-09-10T16:30:31.307Z"
+    },
+    "918981041560121344": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "966409249590751383": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "1068733028144259142": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "1100732516190666842": {
+      "totalMs": 1952478,
+      "daily": {
+        "2026-09-10": 1952478
+      },
+      "sessionStartedAt": null
+    },
+    "1161005450339295383": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T15:51:45.141Z"
+    },
+    "977433799417815120": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:20:54.142Z"
+    },
+    "564435025286660096": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:23:46.064Z"
+    },
+    "704285151202508871": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:26:20.986Z"
+    },
+    "542755476128137216": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:27:22.908Z"
+    },
+    "290736343049437186": {
+      "totalMs": 0,
+      "daily": {},
+      "sessionStartedAt": "2026-09-10T16:29:01.659Z"
+    }
+  },
+  "rankOverrides": {},
+  "reminders": {}
+}
