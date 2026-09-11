@@ -2452,7 +2452,7 @@ function settingsDefaults(config) {
   const uniq = (arr) => [...new Set(ensureArray(arr).filter(Boolean))];
   return {
     profileAccessRoles: uniq([
-      ...getProfileStaffAccessRoleIds(config),
+      ...ensureArray(config.roles?.profileAccess),
       ...ensureArray(config.replays?.reviewerRoleIds)
     ]),
     panelMessages: {},
@@ -3359,7 +3359,8 @@ function rememberProfileCategory(settings, categoryId) {
 function mergeProfileAccessRoles(settings, config) {
   settings.profileAccessRoles = [...new Set([
     ...ensureArray(settings.profileAccessRoles),
-    ...getProfileStaffAccessRoleIds(config)
+    ...ensureArray(config.roles?.profileAccess),
+    ...ensureArray(config.replays?.reviewerRoleIds)
   ])].map(normalizeDiscordId).filter(Boolean);
 }
 
@@ -3383,7 +3384,6 @@ function getProfileAccessRoleIds(guild, settings, config = null) {
   const everyoneRoleId = guild.roles.everyone.id;
   const combinedRoleIds = [
     ...ensureArray(settings.profileAccessRoles),
-    ...(config ? getProfileStaffAccessRoleIds(config) : []),
     ...(config ? ensureArray(config.replays?.reviewerRoleIds) : []),
     ...REQUIRED_PROFILE_ACCESS_ROLE_IDS
   ];
@@ -6634,7 +6634,7 @@ async function bootstrap() {
         }
 
         if (interaction.commandName === 'profiles-sort') {
-          if (!hasAnyRole(interaction.member, config.roles.highrank)) {
+          if (!hasAnyRole(interaction.member, config.roles.highrank) && !hasAnyRole(interaction.member, config.roles.profileAccess)) {
             await interaction.reply({ flags: MessageFlags.Ephemeral, content: 'Недостаточно прав для сортировки профилей.' });
             return;
           }
