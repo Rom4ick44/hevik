@@ -608,9 +608,7 @@ function getProfileOwnerRoleIds(config) {
 
 function getProfileStaffAccessRoleIds(config) {
   return [...new Set([
-    config.roles?.main,
     ...ensureArray(config.roles?.highrank),
-    ...ensureArray(config.roles?.recruits),
     ...ensureArray(config.roles?.profileAccess)
   ].filter(Boolean))];
 }
